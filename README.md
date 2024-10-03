@@ -83,8 +83,6 @@ Join our Discord server and build with the command:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/builder.png" width="65%">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/ApfelSafttee/Creal-Stealer/main/img/build.png" width="70%">
 </p>
 
 ---
