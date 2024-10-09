@@ -20,6 +20,7 @@ from urllib.request import Request, urlopen
 from ctypes import windll, wintypes, byref, cdll, Structure, POINTER, c_char, c_buffer
 
 
+
 class NullWriter(object):
     def write(self, arg):
         pass
